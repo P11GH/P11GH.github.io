@@ -1,0 +1,50 @@
+title: Multi-Agent Intelligence Lab
+email: wangpeng605@sjtu.edu.cn
+description: >-
+  Welcome to my personal website. I am a researcher/educator working in SJTU.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sass-converter
+
+sass:
+  style: compressed
+  load_paths:
+    - _sass
+    - node_modules
+
+# Collections
+collections:
+  members:
+    output: true
+    permalink: /members/:name/
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "members"
+    values:
+      layout: "member"
+
+# Navigation
+nav_items:
+  - title: Home
+    url: /
+  - title: Research
+    url: /research/
+  - title: Teaching
+    url: /teaching/
+  - title: Members
+    url: /members/ 

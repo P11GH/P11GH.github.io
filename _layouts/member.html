@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<div class="member-profile">
+    <div class="member-header">
+        {% if page.image %}
+        <img src="{{ page.image | relative_url }}" alt="{{ page.name }}" class="member-image">
+        {% endif %}
+        <div class="member-info">
+            <h1>{{ page.name }}</h1>
+            <p class="member-title">{{ page.title }}</p>
+            {% if page.email %}
+            <p class="member-email">{{ page.email }}</p>
+            {% endif %}
+        </div>
+    </div>
+
+    <div class="member-content">
+        {{ content }}
+    </div>
+</div> 
