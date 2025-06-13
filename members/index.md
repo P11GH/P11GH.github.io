@@ -28,7 +28,7 @@ Email: wangpeng605@sjtu.edu.cn
 
 - Hao Chen
 <!-- **Research Interests**: Multi-agent systems, AI for decision and control   -->
-[Learn More](/members/zihuan-zhang)
+[Learn More](/members/hao-chen)
 
 ### Master Students
 
