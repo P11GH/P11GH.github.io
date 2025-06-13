@@ -47,7 +47,7 @@ Below are some of the methods and frameworks that we developed for multi-robot s
     <div class="research-media-caption">ColorDynamic</div>
 </div>
 
-<div class="research-media">
+<!-- <div class="research-media">
     <img src="{{ '/assets/images/research/LLM-USV.svg' | relative_url }}" alt="USV Swarm" class="img-width-60">
     <div class="research-media-caption">USV swarm area coverage with LLM</div>
-</div> 
+</div>  -->
