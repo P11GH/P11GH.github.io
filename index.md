@@ -28,7 +28,9 @@ If you are interested in my research, please [contact me](mailto:wangpeng605@sjt
 
 ## Recent News
 
-- Shunfeng Li successfully defends his master thesis and is going to join Huawei as a software engineer.
+- Shunfeng Li successfully defended his master thesis and is joining Huawei as a software engineer.
+- [Our paper](https://ieeexplore.ieee.org/abstract/document/10877776) on privacy-preserving consensus of multi-agent systems is accepted by IEEE TAC, a top journal in control theory.
+- [Our paper](https://www.sciencedirect.com/science/article/pii/S0306261924017112) which synergizes model predictive control and deep reinforcement learning for building energy management is accepted by Applied Energy, a top journal in energy area.
 
 ## Research
 Please refer to the [Research](/research/) page for more information.

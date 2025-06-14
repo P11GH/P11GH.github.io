@@ -34,6 +34,7 @@ Below are some of the methods and frameworks that we developed for power systems
     <div class="research-media-caption">Safe Reinforcement Learning Based on Approximate Bayesian Inference</div>
 </div>
 
+
 ### Multi-robot Systems
 
 We are working on developing multi-agent systems with intelligent behaviors. We are particularly interested in developing methods to enable robots to understand and interact with environments, and to cooperate as a team to complete complex tasks. We have published several research papers on this topic, and we are currently working on developing new AI algorithms to address the challenges of multi-agent systems, e.g., path planning and task planning of robotic swarms in complex environments.

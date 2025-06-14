@@ -46,7 +46,7 @@ Email: wangpeng605@sjtu.edu.cn
 
 - Mingzhe Yang
 <!-- **Research Interests**: Multi-agent systems, AI for decision and control   -->
-[Learn More](/members/zhengyang-shi)
+[Learn More](/members/mingzhe-yang)
 
 ## Alumni
 
