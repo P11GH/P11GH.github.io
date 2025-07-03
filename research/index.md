@@ -43,7 +43,7 @@ Below are some of the methods and frameworks that we developed for multi-robot s
 
 <div class="research-media">
     <video controls controlsList="nodownload" class="img-width-60">
-        <source src="{{ '/assets/videos/research/coloarDynamic.mp4' | relative_url }}" type="video/mp4">
+        <source src="{{ '/assets/videos/research/coloarDynamic-wm.mp4' | relative_url }}" type="video/mp4">
     </video>
     <div class="research-media-caption">ColorDynamic</div>
 </div>
