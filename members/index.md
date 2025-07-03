@@ -6,9 +6,6 @@ permalink: /members/
 
 # Research Group Members
 
-To be added
-
-
 <!-- ## Faculty
 
 ### Peng Wang
@@ -17,8 +14,9 @@ Department of Automation, Shanghai Jiao Tong University
 Email: wangpeng605@sjtu.edu.cn  
 [Learn More](/members/peng-wang) -->
 
-<!-- ## Current Students -->
+## Current Students
 
+To be added
 <!-- ### Ph.D. Students -->
 
 <!-- - Zheng Zhang -->
