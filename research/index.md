@@ -41,14 +41,16 @@ We are working on developing multi-agent systems with intelligent behaviors. We 
 
 Below are some of the methods and frameworks that we developed for multi-robot systems.
 
+<!--
 <div class="research-media">
     <video controls controlsList="nodownload" class="img-width-60">
         <source src="{{ '/assets/videos/research/coloarDynamic-wm.mp4' | relative_url }}" type="video/mp4">
     </video>
     <div class="research-media-caption">ColorDynamic</div>
 </div>
+-->
 
-<!-- <div class="research-media">
+<div class="research-media">
     <img src="{{ '/assets/images/research/LLM-USV.svg' | relative_url }}" alt="USV Swarm" class="img-width-60">
     <div class="research-media-caption">USV swarm area coverage with LLM</div>
-</div>  -->
+</div> 
