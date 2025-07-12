@@ -9,6 +9,7 @@ permalink: /teaching/
 ## Current Courses
 - An introduction to multi-agent systems
 - Python for medical students
+- Comprehensive Programming Practice for AI
 
 <!-- ### Course 1
 - Course Code: [Course code]
