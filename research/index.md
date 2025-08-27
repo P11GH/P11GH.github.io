@@ -30,7 +30,7 @@ Below are some of the methods and frameworks that we developed for power systems
 </div>
 
 <div class="research-media">
-    <img src="{{ '/assets/images/research/ApproximateBayesian.png' | relative_url }}" alt="Safe Reinforcement Learning" class="img-width-60">
+    <img src="{{ '/assets/images/research/approximateBayesian.png' | relative_url }}" alt="Safe Reinforcement Learning" class="img-width-60">
     <div class="research-media-caption">Safe Reinforcement Learning Based on Approximate Bayesian Inference</div>
 </div>
 
