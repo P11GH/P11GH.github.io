@@ -3,7 +3,10 @@ layout: default
 title: Home
 ---
 
-<!-- # Welcome to Multi-Agent Intelligence Lab. -->
+<!-- # Welcome to Multi-Agent Intelligence Lab.-->
+
+# Welcome to Peng Wang's homepage.
+
 
 <div class="profile-container">
     <img src="{{ '/assets/images/profile/PengWang.jpg' | relative_url }}" alt="My Profile Picture" class="profile-image">
