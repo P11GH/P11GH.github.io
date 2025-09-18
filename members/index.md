@@ -58,3 +58,7 @@ To be added
 ### Master Students
  - Shunfeng Li
    - First Job After Graduation: software engineer at Huawei Technologies Co., Ltd. 
+
+### Visiting Students
+ - Xiangwei Wang
+   - Current Coordinate: University of Melbourne
